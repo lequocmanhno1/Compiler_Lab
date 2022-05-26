@@ -1,0 +1,15 @@
+Thay the cac luat tu vung trong project1 bang cac luat sau:
+Luat cho dinh danh:
+Dinh danh bao gom chu cai (hoa, thuong), chu so va dau gach duoi(_)
+1.Ky tu dau la chu cai 
+2.Dinh danh khong duoc trung voi tu khoa. 
+3.Khong gioi han ve do dai nhung chi phan biet 15 ky tu dau
+4.Dinh danh co phan biet chu hoa/chu thuong
+Luat cho tu khoa:
+Tu khoa phai dung chu thuong
+Luat cho chu thich:
+Bo chu thich giua (* và  *). Chu thich tren 1 dong bat dau bang //, ket thuc khi het dong
+Luat cho cac ky hieu dac biet:
+Chi so de trong cap ngoac vuong [ ] thay vi (.  .)
+Luat cho hang ky tu?xau ky tu:
+Su dung them ky tu  \ cho 2 hang ky tu la dau nhay don va dau gach cheo nguoc, do la ‘\’ ’cho  dau nhay don va‘ \\ ’cho dau gach cheo nguoc.

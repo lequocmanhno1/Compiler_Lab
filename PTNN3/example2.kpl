@@ -1,0 +1,26 @@
+Program Example2; (* Factorial *)
+   
+Var n : Integer;
+
+Function K(n : Integer) : Integer;
+  Begin
+    If n = 0 Then K := 1 Else K := N * K (N - 1);
+  End;
+
+function f(x:integer):integer;
+	function g(y: integer):integer;
+	begin
+	f:= y*y; (* lenh gan cho ten ham khac- ko hop le*) (*13-2:Invalid return statement.*)
+	end;
+begin
+	f:=g(x);
+end;
+
+
+Begin
+  For n := 1 To 7 Do
+    Begin
+      Call WriteLn;
+      Call WriteI( K(n));
+    End;
+End. (* Factorial *)
